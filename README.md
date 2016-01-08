@@ -3,5 +3,5 @@ Charfinder implemented on Java 8
 
 ## Running
 ```
-  $ ./gradle run
+  $ ./gradlew run
 ```
